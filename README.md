@@ -8,11 +8,13 @@
 <p align="justify">
   📚 I'm a data enthusiast with a passion for turning raw data into meaningful insights. I'm constantly exploring the vast universe of data, finding patterns, and solving problems.
 🔬 My toolbox includes Python, R, SQL, and more. I love to dig deep into the data, whether it's structured or unstructured, and I'm always excited to learn new techniques and tools.
-i'm also really interested on learning Machine Learing Algorithm and want to contribute on Machine Learning improvement.  
+
 
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/%7Bnurimammasri%7D/count.svg)
+
+
+![Visitor Count](https://profile-counter.glitch.me/%7Briyouuyt%7D/count.svg)
 
 
 <!-- ## 👁‍🗨 Most language -->
@@ -27,7 +29,9 @@ i'm also really interested on learning Machine Learing Algorithm and want to con
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/>
 &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter notebook" width="60" height="60"/>  
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="R studio" width="60" height="60"/>
 </p>
 
