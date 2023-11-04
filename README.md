@@ -1,28 +1,43 @@
 # 👋 Hey there! Welcome to my Data Scientist Playground! 👨‍💻🔬📊
 
-## About Me
-📚 I'm a data enthusiast with a passion for turning raw data into meaningful insights. I'm constantly exploring the vast universe of data, finding patterns, and solving problems.
 
+<img align='right' src = "https://github-readme-stats.vercel.app/api?username=riyouuyt&show_icons=true&theme=radical">
+
+# Hi there <img src="https://github.com/riyouuyt/riyouuyt/blob/master/Assets/Hi.gif" width="30px"> I'm Rio 🧑🏻
+
+<p align="justify">
+  📚 I'm a data enthusiast with a passion for turning raw data into meaningful insights. I'm constantly exploring the vast universe of data, finding patterns, and solving problems.
 🔬 My toolbox includes Python, R, SQL, and more. I love to dig deep into the data, whether it's structured or unstructured, and I'm always excited to learn new techniques and tools.
+i'm also really interested on learning Machine Learing Algorithm and want to contribute on Machine Learning improvement.  
 
-## Projects 🚀
-📈 You'll find a mix of my personal data experiments, data analysis, machine learning projects, and data visualizations here. I believe in making data fun and approachable, so don't expect just boring spreadsheets!
+</p>
 
-🔥 Some of my favorite projects include:
-- 🤖 Predictive modeling with fancy algorithms.
-- 🌐 Data-driven insights into real-world problems.
-- 📊 Eye-catching visualizations to tell a data story.
-- 🧩 Fun and quirky data analyses.
+![Visitor Count](https://profile-counter.glitch.me/%7Bnurimammasri%7D/count.svg)
 
-## Let's Connect 🌐
-📫 Reach out to me if you'd like to collaborate, chat about data, or share your exciting projects. You can find me on LinkedIn, Twitter, or by email. Let's create data magic together! 🪄
 
-## Fun Facts 🎉
-- 🚀 I believe that data can solve any problem, even the unsolvable ones!
-- 🧙‍♂️ In my free time, I enjoy reading about AI and exploring new datasets.
-- 📸 I'm also a photography enthusiast, capturing moments in both data and pixels.
+<!-- ## 👁‍🗨 Most language -->
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyouuyt&layout=compact&theme=blue-green" alt="GitHub Top Languages">
+</p>
 
-## Stay Curious and Keep Coding! 🚁
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="60" height="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter notebook" width="60" height="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" alt="R studio" width="60" height="60"/>
+</p>
 
-Feel free to explore my projects and repositories. And remember, data is beautiful, data is powerful, data is everywhere! 🌌✨
 
+
+| Course Platform | Course Information | Project |
+|-----------------|-------------------|---------|
+| **DQLab Course** | Completed various DQLab courses on data science and analysis. | [Machine learning with Python Building Recommender System 🤖](https://github.com/riyouuyt/DQlab-Course/tree/master/Project/Python/Project%20Machine%20learning%20with%20Python%20Building%20Recommender%20System) |
+| | | [Data Analysis for B2B Retail Customer Analytics Report 📊](https://github.com/riyouuyt/DQlab-Course/tree/master/Project/SQL/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report) |
+| | | [Data Science in Marketing Customer Segmentation 👨‍👩‍👧‍👦](https://github.com/riyouuyt/DQlab-Course/tree/master/All%20Modules/Python/Applied%20Data%20Science%20In%20Industry/Data%20Science%20in%20Marketing%20Customer%20Segmentation) |
+| **Rakamin Academy** | Completed courses on Rakamin and worked on projects. | [Predict Clicked Ads - Customer Classification using Machine Learning 👆](https://github.com/riyouuyt/Predict-Clicked-Ads-Customer-Classification-by-using-Machine-Learning) |
+| | | [Investigate Hotel Business using Data Visualization 📉](https://github.com/riyouuyt/Investigate-Hotel-Business-using-Data-Visualization) |
+| | | [Analyzing eCommerce Business Performance Using SQL 💳](https://github.com/riyouuyt/Analyzing-eCommerce-Business-Performance-Using-SQL) |
