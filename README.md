@@ -3,7 +3,8 @@
 
 <img align='right' src = "https://github-readme-stats.vercel.app/api?username=riyouuyt&show_icons=true&theme=radical">
 
-# Hi there <img src="https://github.com/riyouuyt/riyouuyt/blob/master/Assets/Hi.gif" width="30px"> I'm Rio 🧑🏻
+# Hi there I'm Rio 🧑🏻
+
 
 <p align="justify">
   📚 I'm a data enthusiast with a passion for turning raw data into meaningful insights. I'm constantly exploring the vast universe of data, finding patterns, and solving problems.
