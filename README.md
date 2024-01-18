@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Rio 🧑🏻
 
-I'm a data enthusiast passionate about turning raw data into meaningful insights. Constantly exploring the vast universe of data, finding patterns, and solving problems is what I thrive on. My toolbox includes Python, R, SQL, and more. I love delving deep into both structured and unstructured data, always eager to learn new techniques and tools.
+Public administration college student with additonal skills on data science, aiming to blend governance and analytics. Aspiring to leverage data-driven insights for policy formulation and implementation. Envision a career in public data management, fostering transparency and efficiency. Committed to developing systems that enhance public services through informed decision-making, ultimately contributing to a more responsive and accountable government.
 
 ![Visitor Count](https://profile-counter.glitch.me/%7Briyouuyt%7D/count.svg)
 ---
